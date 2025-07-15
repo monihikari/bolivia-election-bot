@@ -1,0 +1,10 @@
+[{
+  "Rules": [
+    {
+      "ResourceType": "collection",
+      "Resource": ["collection/proposals"],
+      "Permission": ["aoss:*"]
+    }
+  ],
+  "Principal": ["arn:aws:iam::781100582438:user/moni"]
+}]
